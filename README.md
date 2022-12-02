@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mdumisi Kelvin Letsie</h1>
 <h3 align="center">A passionate software developer from Cape Town, South Africa</h3>
 
-- 🔭 I’m currently working on **Client-Server Library system**
+- 🔭 I’m currently working on **ReactJS eCommerce store**
 
 - 🌱 I’m currently learning **Java, Python, PHP, Android Studio**
 
