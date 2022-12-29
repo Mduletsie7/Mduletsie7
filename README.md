@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ReactJS eCommerce store**
 
-- 🌱 I’m currently learning **Java, Python, PHP, Android Studio**
+- 🌱 I’m currently learning **Java, Python, PHP, React, Android Studio**
 
 - 💬 Ask me about **Java, PHP**
 
