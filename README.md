@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mdumisi Kelvin Letsie</h1>
 <h3 align="center">A passionate software engineer from Cape Town, South Africa.</h3>
 
-- 🔭 I’m currently working on **Terraform AWS EKS DevOps Projecty**
+- 🔭 I’m currently working on **Terraform AWS EKS DevOps Project**
 
 - 🌱 I’m currently learning **Python Automation, Devops, Springboot**
 
